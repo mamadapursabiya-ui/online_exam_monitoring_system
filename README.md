@@ -40,29 +40,3 @@ python exam_system.py
 2. Student attempts **MCQ-based exam (10 questions)**
 3. Any **cheating action is detected + penalty applied instantly**
 4. At the end — **Final Score + Eligibility + Cheating Report** shown
-
-## 📸 (Optional) Screenshots / Demo
-
-*Add screenshots here if needed*
-
-## 🔮 Future Enhancements
-
-* ✅ Store results in database (MongoDB / Firebase)
-* ✅ Instructor login panel
-* ✅ Live report submission to admin
-* ✅ Face Recognition for student identity verification
-
----
-
-## 👤 Author
-
-**Sabiya Mamadapur**
-GitHub: *add your username here*
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
-If you like this project, **⭐ Star the repository** and feel free to contribute!
